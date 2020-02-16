@@ -1,1 +1,11 @@
+Nozzle assembly are divided into parts for easy modification.
 
+Assembly:
+bravaa-nozzle.scad
+
+Parts:
+Body          - body.scad
+Standoff      - standoff.scad
+Hose fitting  - fitting.scad
+Head          - head.scad
+Guide shaft.  - guide.scad
