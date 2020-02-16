@@ -10,7 +10,7 @@ translate([0,0,0]) // to be assigned
 rotate ([0,0,0]) // to be assigned
 body();
 
-translate([0,0,0]) // to be assigned
+translate([-20,0,0]) // to be assigned
 rotate ([0,0,0]) // to be assigned
 standoff();
 
@@ -22,6 +22,6 @@ translate([0,0,0]) // to be assigned
 rotate ([0,0,0]) // to be assigned
 head();
 
-translate([0,0,0]) // to be assigned
+translate([15,-15,0]) // to be assigned
 rotate ([0,0,0]) // to be assigned
 guide();
